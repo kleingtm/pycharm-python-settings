@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://152303423357.dkr.ecr.us-east-1.amazonaws.com/directpl-nerts-notifications-app:latest/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="152303423357.dkr.ecr.us-east-1.amazonaws.com/directpl-nerts-notifications-app:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
+  </component>
+</application>
