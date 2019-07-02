@@ -11,6 +11,7 @@
       <mapping pattern="asdfa" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".bower-install" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="clean" type="PLAIN_TEXT" />
       <mapping pattern="important-file" type="PLAIN_TEXT" />
