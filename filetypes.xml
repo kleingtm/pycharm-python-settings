@@ -7,6 +7,7 @@
       <mapping pattern="clean" type="PLAIN_TEXT" />
       <mapping pattern="asdfasdf" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="tioasjdf" type="PLAIN_TEXT" />
       <mapping pattern="sudo_nginxreload" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="npm-pack-all" type="PLAIN_TEXT" />
