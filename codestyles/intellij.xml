@@ -1,4 +1,9 @@
 <code_scheme name="intellij" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
   <option name="HTML_QUOTE_STYLE" value="Single" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <HTMLCodeStyleSettings>
@@ -22,10 +27,15 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
