@@ -14,9 +14,9 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="npm-pack-all" type="PLAIN_TEXT" />
       <mapping pattern="tioasjdf" type="PLAIN_TEXT" />
-      <mapping pattern="pss-and-nreum" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="asdfa" type="PLAIN_TEXT" />
+      <mapping pattern="pss-and-nreum" type="PLAIN_TEXT" />
       <mapping pattern="not-working-impersonatees" type="PLAIN_TEXT" />
       <mapping pattern="working-impersonation" type="PLAIN_TEXT" />
       <mapping pattern="sudo_nginxreload" type="PLAIN_TEXT" />
