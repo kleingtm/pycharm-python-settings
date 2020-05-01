@@ -27,6 +27,7 @@
       <mapping pattern="bogus" type="PLAIN_TEXT" />
       <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
+      <mapping ext="centos-pm2" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="conff" type="PLAIN_TEXT" />
