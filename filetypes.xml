@@ -7,13 +7,12 @@
       <mapping pattern=".bower-install" type="PLAIN_TEXT" />
       <mapping pattern="important-file" type="PLAIN_TEXT" />
       <mapping pattern="clean" type="PLAIN_TEXT" />
-      <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="atasdfj" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="asdfasdf" type="PLAIN_TEXT" />
+      <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="npm-pack-all" type="PLAIN_TEXT" />
       <mapping pattern="tioasjdf" type="PLAIN_TEXT" />
@@ -21,6 +20,7 @@
       <mapping pattern="asdfa" type="PLAIN_TEXT" />
       <mapping pattern="pss-and-nreum" type="PLAIN_TEXT" />
       <mapping pattern="not-working-impersonatees" type="PLAIN_TEXT" />
+      <mapping pattern="asdfasdf" type="PLAIN_TEXT" />
       <mapping pattern="working-impersonation" type="PLAIN_TEXT" />
       <mapping pattern="sudo_nginxreload" type="PLAIN_TEXT" />
       <mapping pattern="not-working-impersonation" type="PLAIN_TEXT" />
