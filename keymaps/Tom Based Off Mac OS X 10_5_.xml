@@ -2,6 +2,7 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -13,17 +14,22 @@
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
   </action>
   <action id="ContextHelp" />
+  <action id="EditorLookupDown" />
   <action id="FindNext" />
+  <action id="GotoAction" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
   <action id="ReformatWithPrettierAction" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="ShowContent" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -45,4 +51,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
