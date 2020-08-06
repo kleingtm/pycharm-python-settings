@@ -2,6 +2,17 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
+  </action>
+  <action id="ContextHelp" />
   <action id="FindNext" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
